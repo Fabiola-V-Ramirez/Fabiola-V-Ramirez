@@ -1,8 +1,6 @@
 <div align="center">
 <div>
-  Hi, welcome!
-  <br>
-  I'm Fabíola Ramirez, a brazilian student.
+  <h1>Hi, I'm Fabíola Ramirez!</h1>
 </div>
 <br>
 <div>
